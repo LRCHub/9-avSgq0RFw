@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Ever Blue",
+  "base_artist": "ぶいすぽっ！、一ノ瀬うるは",
+  "createdAt": "2025-12-13T14:23:41.397209Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ever Blue (マーメイドコーラスバージョン)",
+      "artist": "寺門仁美",
+      "has_synced": true,
+      "path": "select/01_Ever_Blue_(マーメイドコーラスバージョン)_寺門仁美.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ever Blue (コーラスバージョン)",
+      "artist": "寺門仁美(宝生波音)",
+      "has_synced": true,
+      "path": "select/02_Ever_Blue_(コーラスバージョン)_寺門仁美(宝生波音).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "EVER BLUE",
+      "artist": "STYLE FIVE",
+      "has_synced": true,
+      "path": "select/03_EVER_BLUE_STYLE_FIVE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "EVER BLUE",
+      "artist": "STYLE FIVE",
+      "has_synced": false,
+      "path": "select/04_EVER_BLUE_STYLE_FIVE.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "EVER BLUE",
+      "artist": "STYLE FIVE (????, ????, ????, ???, ????)",
+      "has_synced": true,
+      "path": "select/05_EVER_BLUE_STYLE_FIVE_(_,__,__,__,__).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ever Bright Ever Blue",
+      "artist": "Attack In Black",
+      "has_synced": true,
+      "path": "select/06_Ever_Bright_Ever_Blue_Attack_In_Black.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ever Blue",
+      "artist": "ぶいすぽっ！、一ノ瀬うるは",
+      "has_synced": false,
+      "path": "select/07_Ever_Blue_ぶいすぽっ!、一ノ瀬うるは.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ever Blue",
+      "artist": "ぶいすぽっ!、一ノ瀬うるは",
+      "has_synced": false,
+      "path": "select/pl_01_Ever_Blue_ぶいすぽっ!、一ノ瀬うるは.txt"
+    }
+  ]
+}
